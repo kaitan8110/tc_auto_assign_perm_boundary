@@ -1,0 +1,3 @@
+﻿targetUin,policyName,ipWhitelist
+200033541243,srcIpWhitelist1,127.0.0.1
+200033545673,srcIpWhitelist2,127.0.0.1

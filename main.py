@@ -6,7 +6,7 @@ import csv
 
 # Note, newline='' is a documented requirement for the csv module
 # for reading and writing CSV files.
-with open('sheet.csv', encoding='utf-8-sig', newline='') as file:
+with open('input.csv', encoding='utf-8-sig', newline='') as file:
     csvreader = csv.reader(file)
 
     header = []

@@ -4,6 +4,6 @@
 3. source venv/bin/activate (Activate virtual env)
 4. pip install -r requirements.txt 
 
-< Others helpful command>
 
+< Others helpful command>
 pip freeze > requirements.txt
